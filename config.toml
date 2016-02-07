@@ -1,0 +1,18 @@
+Title = "Furbuild"
+BaseUrl = "http://furbuild.com/"
+LanguageCode = "en-gb"
+Paginate = 5
+Copyright = "All rights reserved - 2015"
+Canonifyurls = true
+
+[params]
+  description = "Building our own fursuits for fun"
+  cover = "images/head-frames-demo.jpg"
+  hideHUGOSupport = true
+  googleAnalyticsUserID = "UA-73425660-1"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
