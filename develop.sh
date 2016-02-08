@@ -1,0 +1,1 @@
+hugo server -t casper -D --bind=0.0.0.0
