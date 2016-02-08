@@ -12,7 +12,7 @@ share = false
 +++
 
 In our planning process we talked about what qualities we value the most in suit heads.
-We listed a few good qualities and picked the once that matter the most to us in order to decide how we wanted to make the head.
+We listed a few good qualities and picked the ones that matter the most to us in order to decide how we wanted to make the head.
 
 We wanted smaller, streamlined suit heads, entirely made out of foam.
 We also wanted the heads to have a movable jaw, so it was important that our design included this mechanism.
@@ -33,7 +33,7 @@ The mount is in no way attached to the balaclava and could in essentially be wor
 ![Loose head frame without balaclava](/images/head-frame-loose.jpg)
 
 #### Design for accessibility & longevity
-Out on the field it's great if you can stop to rest and take of the head, so we didn't want the act to cause too much damage to the head.
+Out in the field it's great if you can stop to rest and take off the head, and we didn't want the act to cause too much damage to the head.
 We decided to make the frame open from the back, using snap fasteners to connect the sides.
 
 ![Buttons at the back of a head frame](/images/head-frame-unbuttoned.jpg)
