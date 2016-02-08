@@ -6,7 +6,7 @@ Copyright = "All rights reserved - 2015"
 Canonifyurls = true
 
 [params]
-  description = "Building our own fursuits for fun"
+  description = "Building our own fursuits"
   cover = "images/head-frames-demo.jpg"
   hideHUGOSupport = true
   googleAnalyticsUserID = "UA-73425660-1"
