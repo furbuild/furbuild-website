@@ -26,6 +26,11 @@ I ended up ordering three pieces of foam, exaggerating slightly for my estimates
 We had a variety in options of what foam to get, ranging in thickness, hardness and cell structure.
 All the foam we ended up ordering was normal polyester foam.
 
+#### Costliness of specialist foam
+The total price for the foam ended up on **700 SEK (82.65 USD)** which was somewhat expected if we wanted specific types of foam.
+I think the only cheaper option would have been to buy a foam mattress, but we decided against it.
+We're not paying any shipping cost since they're constantly shipping large batches to the bed store.
+
 #### Inspiration
 There is an abundance of resources on the interwebs for making fursuit heads with foam.
 For most people, I think [Matrices has the best rundown of the basics](http://www.matrices.net/foam.asp).
