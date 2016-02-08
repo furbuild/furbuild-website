@@ -41,3 +41,6 @@ We decided to make the frame open from the back, using snap fasteners to connect
 #### Results
 We've been wearing the head frames with balaclavas underneath for a few hours without any problems.
 It's very comfortable, excited to see how it feels when we've attached the foam to the frame.
+
+Each frame took about **3 hours** to make, from measuring to sewing by hand.
+The material cost for both was 288 SEK (38 USD), including the balaclavas, elastic band and thread.
