@@ -4,6 +4,7 @@ LanguageCode = "en-gb"
 Paginate = 5
 Copyright = "All rights reserved - 2015"
 Canonifyurls = true
+Theme = "casper"
 
 [params]
   description = "Building our own fursuits"
