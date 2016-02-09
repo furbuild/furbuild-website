@@ -4,7 +4,7 @@ draft = false
 author = "zeeraw"
 
 title = "Elastic band head frame"
-tags = ["head", "frame"]
+tags = ["head", "frame", "progress"]
 image = "//images/head-frames-demo.jpg"
 
 comments = false
