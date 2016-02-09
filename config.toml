@@ -17,3 +17,16 @@ Theme = "casper"
   weight = -120
   identifier = "blog"
   url = "/"
+
+[[menu.main]]
+  name = "Zee"
+  weight = -110
+  pre = "<h6 style='padding-top:1em;'>Characters</h6>"
+  identifier = "zee"
+  url = "/character/zee"
+
+[[menu.main]]
+  name = "Caraid"
+  weight = -100
+  identifier = "caraid"
+  url = "/character/caraid"
