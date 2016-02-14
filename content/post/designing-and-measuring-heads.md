@@ -47,3 +47,6 @@ So, all we had to do now was get the measurements of the sketch, multiply them b
 
 [**Yeah science!**](https://www.youtube.com/watch?v=YRL4uIVzVWI)
 
+#### Up next!
+I am putting these concepts in to practice in my post about [***Working with foam***](/post/working-with-foam/).
+
