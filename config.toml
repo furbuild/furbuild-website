@@ -8,7 +8,7 @@ Theme = "casper"
 
 [params]
   description = "Building our own fursuits"
-  cover = "images/head-frames-demo.jpg"
+  cover = "images/foam-ears-front-profile.jpg"
   hideHUGOSupport = true
   googleAnalyticsUserID = "UA-73425660-1"
 
