@@ -1,7 +1,7 @@
 +++
 date = "2016-02-14T11:51:18+01:00"
-author = "zeeraw"
 draft = true
+author = "zeeraw"
 
 title = "First iteration of the frame"
 tags = ["frame", "foam", "learning"]
@@ -15,8 +15,8 @@ comments = false
 As we attached foam to the frame. it would stretch the elastic bands until a point where it wasn't snug enough to support all that weight.
 Top of the frame wasn't solid enough to support large ears which would also become a problem.
 
-We were able to go with an ad-hoc solution and extend the existing frame with two thicker elastic going over the top of the head.
-Once attached everything sat really snugly and as a result the jaw got more animated as it was more closely connected.
+We were able to go with an ad-hoc solution and extend the existing frame with two thicker elastic bands going over the top of the head.
+Once attached, everything sat snugly, resting on top of the head and as a result the jaw got more animated as it was more closely connected.
 
 ![Ad-hoc solution to the head we had already started to foam](/images/head-frame-ad-hoc-fix.jpg)
 
